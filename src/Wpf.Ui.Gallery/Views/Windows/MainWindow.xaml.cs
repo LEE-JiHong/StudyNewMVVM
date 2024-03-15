@@ -12,6 +12,7 @@ namespace Wpf.Ui.Gallery.Views.Windows;
 
 public partial class MainWindow : IWindow
 {
+    //테스트
     public MainWindow(
         MainWindowViewModel viewModel,
         INavigationService navigationService,
